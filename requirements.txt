@@ -5,3 +5,4 @@ langchain~=0.0.150
 pypdf2~=3.0.1
 faiss-cpu
 huggingface
+https://huggingface.co/facebook/bart-large-mnli/commit/df7df4d2107d3882675bfd5ad50db1aa8dd7d7be
