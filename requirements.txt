@@ -6,3 +6,5 @@ pypdf2~=3.0.1
 faiss-cpu
 HuggingFace
 sentence-transformers
+pypdf
+tiktoken
