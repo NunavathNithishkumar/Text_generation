@@ -1,4 +1,4 @@
-streamlit~=1.30.0
+streamlit~=1.31.0
 openai~=1.10.0
 numpy~=1.24.3
 langchain~=0.0.150
